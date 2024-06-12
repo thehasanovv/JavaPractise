@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eolymp/MedianNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MedianNumber">
-    <configuration name="InvertValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.InvertValues" />
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WhichQuarter">
     <configuration name="MedianNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eolymp.MedianNumber" />
       <module name="JavaPractise" />
@@ -111,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhichQuarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eolymp.WhichQuarter" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eolymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhichQuarter" />
         <item itemvalue="Application.MedianNumber" />
         <item itemvalue="Application.RectangularOrNot" />
         <item itemvalue="Application.ProductOfDigits" />
         <item itemvalue="Application.MonthlyAndQuarterly" />
-        <item itemvalue="Application.InvertValues" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718207329549</updated>
       <workItem from="1718207330598" duration="4320000" />
-      <workItem from="1718219714363" duration="2224000" />
+      <workItem from="1718219714363" duration="3108000" />
     </task>
     <servers />
   </component>
