@@ -14,9 +14,8 @@ public class FakeBinary {
 
         for (int i = 0; i < numberString.length(); i++) {
             char ch = numberString.charAt(i);
-            int num = Character.getNumericValue(ch);
 
-            if (num < 5) fakeBin += "0";
+            if (ch < '5') fakeBin += "0";
             else fakeBin += "1";
         }
 
