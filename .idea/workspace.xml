@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/Isograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/JadenCasingStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Isograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/Isograms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Isograms">
+  <component name="RunManager" selected="Application.JadenCasingStrings">
     <configuration name="ConvertAStringToANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.ConvertAStringToANumber" />
       <module name="JavaPractise" />
@@ -72,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.ReversedString" />
+    <configuration name="JadenCasingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.JadenCasingStrings" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JadenCasingStrings" />
         <item itemvalue="Application.Isograms" />
         <item itemvalue="Application.SortTheGiftCode" />
         <item itemvalue="Application.TheFeastOfManyBeasts" />
         <item itemvalue="Application.ConvertAStringToANumber" />
-        <item itemvalue="Application.ReversedString" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +138,7 @@
       <workItem from="1718619732307" duration="6000" />
       <workItem from="1718619746476" duration="5443000" />
       <workItem from="1718627263868" duration="2169000" />
-      <workItem from="1718652904239" duration="3019000" />
+      <workItem from="1718652904239" duration="5285000" />
     </task>
     <servers />
   </component>

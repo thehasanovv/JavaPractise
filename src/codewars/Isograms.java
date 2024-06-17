@@ -9,7 +9,7 @@ public class Isograms {
         System.out.println(test2);
     }
 
-    public static boolean isIsogram(String str) {
+    private static boolean isIsogram(String str) {
         String tempStr = "";
 
         for (int i = 0; i < str.length(); i++) {
