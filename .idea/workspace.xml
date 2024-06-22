@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/AllStarCodeChallenge18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +44,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveExclamationMarks">
-    <configuration name="GetTheMiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.GetTheMiddleCharacter" />
+  <component name="RunManager" selected="Application.ddd">
+    <configuration name="AllStarCodeChallenge18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.AllStarCodeChallenge18" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Isograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.Isograms" />
+    <configuration name="GetTheMiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.GetTheMiddleCharacter" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTheGiftCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.SortTheGiftCode" />
+    <configuration name="ddd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.ddd" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ddd" />
+        <item itemvalue="Application.AllStarCodeChallenge18" />
         <item itemvalue="Application.RemoveExclamationMarks" />
         <item itemvalue="Application.GetTheMiddleCharacter" />
         <item itemvalue="Application.JadenCasingStrings" />
-        <item itemvalue="Application.Isograms" />
-        <item itemvalue="Application.SortTheGiftCode" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,7 @@
       <workItem from="1718701572834" duration="101000" />
       <workItem from="1718880379231" duration="1284000" />
       <workItem from="1718886132266" duration="24000" />
-      <workItem from="1719078118961" duration="449000" />
+      <workItem from="1719078118961" duration="1866000" />
     </task>
     <servers />
   </component>
