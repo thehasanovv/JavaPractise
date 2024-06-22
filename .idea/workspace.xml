@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/OppositeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/ReturnNegative.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1718701572834" duration="101000" />
       <workItem from="1718880379231" duration="1284000" />
       <workItem from="1718886132266" duration="24000" />
-      <workItem from="1719078118961" duration="3853000" />
+      <workItem from="1719078118961" duration="4151000" />
     </task>
     <servers />
   </component>
