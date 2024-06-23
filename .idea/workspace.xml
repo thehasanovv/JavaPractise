@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/ReturningStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/ConvertABooleanToAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReturningStrings">
-    <configuration name="ConvertANumberToAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.ConvertANumberToAString" />
+  <component name="RunManager" selected="Application.MakeUpperCase">
+    <configuration name="ConvertABooleanToAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.ConvertABooleanToAString" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OppositeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.OppositeNumber" />
+    <configuration name="MakeUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.MakeUpperCase" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeUpperCase" />
+        <item itemvalue="Application.ConvertABooleanToAString" />
         <item itemvalue="Application.ReturningStrings" />
         <item itemvalue="Application.RemoveStringSpaces" />
         <item itemvalue="Application.RemoveFirstAndLastCharacter" />
-        <item itemvalue="Application.OppositeNumber" />
-        <item itemvalue="Application.ConvertANumberToAString" />
       </list>
     </recent_temporary>
   </component>
@@ -143,11 +143,28 @@
       <workItem from="1718886132266" duration="24000" />
       <workItem from="1719078118961" duration="5156000" />
       <workItem from="1719135415135" duration="1972000" />
-      <workItem from="1719148821640" duration="332000" />
+      <workItem from="1719148821640" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
