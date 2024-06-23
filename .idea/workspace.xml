@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/SentenceSmash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +142,7 @@
       <workItem from="1719078118961" duration="5156000" />
       <workItem from="1719135415135" duration="1972000" />
       <workItem from="1719148821640" duration="2005000" />
-      <workItem from="1719173006336" duration="676000" />
+      <workItem from="1719173006336" duration="1063000" />
     </task>
     <servers />
   </component>
