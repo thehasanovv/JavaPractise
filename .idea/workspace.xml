@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="" />
+    <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codewars/ConvertAstringToAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SentenceSmash">
+  <component name="RunManager" selected="Application.ConvertAstringToAnArray">
     <configuration name="AreYouPlayingBanjo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.AreYouPlayingBanjo" />
       <module name="JavaPractise" />
@@ -69,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.MakeUpperCase" />
+    <configuration name="ConvertAstringToAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.ConvertAstringToAnArray" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturningStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.ReturningStrings" />
+    <configuration name="MakeUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.MakeUpperCase" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertAstringToAnArray" />
         <item itemvalue="Application.SentenceSmash" />
         <item itemvalue="Application.AreYouPlayingBanjo" />
         <item itemvalue="Application.MakeUpperCase" />
         <item itemvalue="Application.ConvertABooleanToAString" />
-        <item itemvalue="Application.ReturningStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +145,7 @@
       <workItem from="1719078118961" duration="5156000" />
       <workItem from="1719135415135" duration="1972000" />
       <workItem from="1719148821640" duration="2005000" />
-      <workItem from="1719173006336" duration="1063000" />
+      <workItem from="1719173006336" duration="2328000" />
     </task>
     <servers />
   </component>
