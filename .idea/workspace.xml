@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3d53a2-7a37-43ac-9c3c-a73444542233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/ConvertABooleanToAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/AreYouPlayingBanjo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MakeUpperCase">
+  <component name="RunManager" selected="Application.AreYouPlayingBanjo">
+    <configuration name="AreYouPlayingBanjo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.AreYouPlayingBanjo" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConvertABooleanToAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.ConvertABooleanToAString" />
       <module name="JavaPractise" />
@@ -60,19 +74,6 @@
     </configuration>
     <configuration name="MakeUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.MakeUpperCase" />
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveFirstAndLastCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.RemoveFirstAndLastCharacter" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreYouPlayingBanjo" />
         <item itemvalue="Application.MakeUpperCase" />
         <item itemvalue="Application.ConvertABooleanToAString" />
         <item itemvalue="Application.ReturningStrings" />
         <item itemvalue="Application.RemoveStringSpaces" />
-        <item itemvalue="Application.RemoveFirstAndLastCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,7 @@
       <workItem from="1718886132266" duration="24000" />
       <workItem from="1719078118961" duration="5156000" />
       <workItem from="1719135415135" duration="1972000" />
-      <workItem from="1719148821640" duration="645000" />
+      <workItem from="1719148821640" duration="1698000" />
     </task>
     <servers />
   </component>
