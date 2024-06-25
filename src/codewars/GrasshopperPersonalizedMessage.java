@@ -10,6 +10,6 @@ public class GrasshopperPersonalizedMessage {
     }
 
     private static String greet(String name, String owner) {
-        return "Hello " + (name == owner ? "boss" : "guest");
+        return "Hello " + (name.equals(owner) ? "boss" : "guest");
     }
 }
